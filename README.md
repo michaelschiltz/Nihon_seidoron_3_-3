@@ -27,20 +27,20 @@ ISBN-13: 978-4492444474
 
 This course discusses chapters from the book 『日本史で学ぶ経済学』:
 
-* 基礎編
+##### 基礎編
 
-> 第１章　貨幣の経済学　　　
-> 第２章　インセンティブの経済学
-> 第３章　株式会社の経済学
+* 第１章　貨幣の経済学　　　
+* 第２章　インセンティブの経済学
+* 第３章　株式会社の経済学
 
-* 応用編
+##### 応用編
 
-> 第４章　銀行危機の経済学
-> 第５章　取引コストの経済学
-> 第６章　プラットフォームの経済学
-> 第７章　教育の経済学
+* 第４章　銀行危機の経済学
+* 第５章　取引コストの経済学
+* 第６章　プラットフォームの経済学
+* 第７章　教育の経済学
 
-All chapters are composed of several subchapters, which are the gist of course sessions.
+All chapters are composed of several subchapters, which form the gist of course sessions and discussions.
 
 #### Homework
 
