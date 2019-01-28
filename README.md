@@ -15,9 +15,11 @@ From the book's [self-description](https://store.toyokeizai.net/books/9784492444
 経済学の基本や最先端の経済問題を、過去の史実から学ぶことは、ためになるだけでなく、面白い。
 気鋭の経済学者が織り成す、「ビジネスのヒント」と「教養」がいっきに身につく歴史経済絵巻、ここに誕生！
 
-This course attempts to familiarize students with economic thinking, by describing economic processes through historical examples. Several of these examples have been discussed in my courses in Japanese History I and Japanese History II. 
+This course attempts to familiarize students with economic thinking, by describing economic processes through historical examples. Several of these examples have been discussed in my courses [Japanese History I](https://github.com/michaelschiltz/Japanese_History_1) and [Japanese History II](https://github.com/michaelschiltz/Japanese_History_2). 
 
 #### Course Goals
+
+Concretely, students revisit pivotal happenings in Japanese economic history (the role of the ryōgae 両替 in the Edo economy, gold standard adoption, banking crises etc.) in order to understand the importance of economic key concepts (transaction costs, arbitrage, information assymmetries and so on). In several cases, historical happenings are used to elucidate the characteristics of contemporary phenomena as bitcoin, rating systems, and the '[platform economy](https://en.wikipedia.org/wiki/Platform_economy)'.
 
 #### Course Material
 
