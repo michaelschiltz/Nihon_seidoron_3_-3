@@ -52,7 +52,7 @@ From session 2 on, small student groups will be assigned to introduce topics to 
 Students are expected to:
 1. to participate in the course as a whole: doing the essential reading for each week’s topic, and coming prepared to question and intervene.
 2. To provide written and oral comments.
-3. To Research, write, present, and defend your argument and choice of topic to be discussed.
+3. To research, write, present, and defend your argument and choice of topic to be discussed.
 4. When presenting, students should go beyond the narrow content of the reading to be presented; develop an argument as a coherent whole, e.g. by focusing on theoretical issues. As the course material concentrates on the issue of understanding economic processes through history, being able to explain them (in Japanese) is key. 
 
 #### How to read?
