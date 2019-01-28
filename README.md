@@ -4,7 +4,7 @@
 
 #### Course Objectives
 
-From the book's self-description:
+From the book's [self-description](https://store.toyokeizai.net/books/9784492444474/#detail_comment3):
 
 > 仮想通貨と鎌倉・室町時代に流通した中国銭が似ている？
 織田信長はプラットフォームビジネスの先駆者？
@@ -14,6 +14,8 @@ From the book's self-description:
 歴史は、考えるヒントの宝庫だ。
 経済学の基本や最先端の経済問題を、過去の史実から学ぶことは、ためになるだけでなく、面白い。
 気鋭の経済学者が織り成す、「ビジネスのヒント」と「教養」がいっきに身につく歴史経済絵巻、ここに誕生！
+
+This course attempts to familiarize students with economic thinking, by describing economic processes through historical examples. Several of these examples have been discussed in my courses in Japanese History I and Japanese History II. 
 
 #### Course Goals
 
