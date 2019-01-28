@@ -21,9 +21,9 @@ This course attempts to familiarize students with economic thinking, by describi
 
 #### Course Material
 
-横山和輝. 2018. 『日本史で学ぶ経済学』. 東京: 東洋経済新報社.
-ISBN-10: 4492444475
-ISBN-13: 978-4492444474
+横山和輝. 2018. [『日本史で学ぶ経済学』](https://store.toyokeizai.net/books/9784492444474/). 東京: 東洋経済新報社.
+* ISBN-10: 4492444475
+* ISBN-13: 978-4492444474
 
 #### Topics to be covered:
 
